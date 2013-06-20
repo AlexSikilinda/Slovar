@@ -1,0 +1,9 @@
+D:\games\mygames\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+D:\games\mygames\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+D:\games\mygames\Dictionary\Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\games\mygames\Dictionary\Dictionary\obj\x86\Debug\Dictionary.Properties.Resources.resources
+D:\games\mygames\Dictionary\Dictionary\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\games\mygames\Dictionary\Dictionary\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\games\mygames\Dictionary\Dictionary\obj\x86\Debug\Dictionary.exe
+D:\games\mygames\Dictionary\Dictionary\obj\x86\Debug\Dictionary.pdb
+D:\games\mygames\Dictionary\Dictionary\obj\x86\Debug\Dictionary.Form1.resources

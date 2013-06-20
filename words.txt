@@ -1,0 +1,6 @@
+table стод
+table доска
+dog собака
+cat кот
+car магина
+computer комрьютер

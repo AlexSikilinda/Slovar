@@ -1,0 +1,20 @@
+table*стол
+table*доска
+dog*собака
+cat*кот
+car*машина
+Absorber*бампер
+Bumper*бампер
+Accelerator*акселератор
+Accumulator*аккумулятор
+Battery*аккумулятор
+Armrest*подлокотник
+Back door*задняя дверь
+Bonnet*капот
+hood*капот
+Brake*тормоз
+Brake fluid*тормозная жидкость
+Brake light*стоп-сигнал
+Bulbs*лампы
+Cab*кабина
+Carburet(t)or*карбюратор
